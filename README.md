@@ -6,6 +6,7 @@
 - [awesome-react](https://github.com/enaqx/awesome-react)
 - [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
 - [awesome-vue](https://github.com/vuejs/awesome-vue)
+- [awesome-redux](https://github.com/xgrommx/awesome-redux)
 
 ## Javascript
 
@@ -26,6 +27,10 @@
 ## Cheat Sheet
 
 - [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
+
+## PWA
+
+- [tetrys](https://github.com/morkro/tetrys)
 
 ## Others
 
