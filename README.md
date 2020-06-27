@@ -8,6 +8,14 @@
 - [awesome-vue](https://github.com/vuejs/awesome-vue)
 - [awesome-redux](https://github.com/xgrommx/awesome-redux)
 
+## Front-end
+
+- [Front-end Challenges](https://github.com/felipefialho/frontend-challenges)
+
+## CSS
+
+- [A collection of tips to help take your CSS skills pro](https://github.com/AllThingsSmitty/css-protips)
+
 ## Javascript
 
 - [core-js](https://github.com/zloirock/core-js)
@@ -24,6 +32,10 @@
 - [mern-starter](https://github.com/Hashnode/mern-starter)
 - [vue-material-components](https://github.com/appcomponents/material-components)
 
+## Gatsby
+
+- [Gatsby Plugin Pantry](https://github.com/rmcfadzean/gatsby-pantry)
+
 ## Cheat Sheet
 
 - [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
@@ -36,5 +48,7 @@
 
 - [whatwebcando](https://github.com/NOtherDev/whatwebcando)
 
+## Python
 
+- [curso de selenium usando python](https://github.com/dunossauro/curso-python-selenium)
 
